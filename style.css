@@ -1,0 +1,15 @@
+.box1{
+    margin: 30px;
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    border: 20px solid #000;
+    border-image:linear-gradient(red,green,blue,gray,lime,transparent) 25 stretch;
+
+}
+
+.box2{
+    height: 200px;
+    width: 200px;
+    
+}
